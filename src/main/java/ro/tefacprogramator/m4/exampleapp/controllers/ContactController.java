@@ -8,7 +8,7 @@ public class ContactController {
 
     @GetMapping("/")
     public String homepage() {
-        return "Welcome !";
+        return "Welcome back !";
     }
 
 }
