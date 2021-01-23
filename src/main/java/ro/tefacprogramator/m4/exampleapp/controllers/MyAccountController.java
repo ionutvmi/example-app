@@ -17,4 +17,8 @@ public class MyAccountController {
         System.out.println("Another nice message");
     }
 
+    public void showSomethingElse2() {
+        System.out.println("Another nice message");
+    }
+
 }
