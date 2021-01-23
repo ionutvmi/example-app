@@ -5,5 +5,7 @@ package ro.tefacprogramator.m4.exampleapp.controllers;
  */
 public class MyAccountController {
 
-    
+    public void showSomething() {
+        System.out.println("Test message");
+    }
 }
